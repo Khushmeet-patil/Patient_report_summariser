@@ -49,14 +49,12 @@ Update config.py with your MongoDB connection string.
 
 streamlit run app.py
 
-Usage
-Dashboard: View all registered patients.
+<h1>Usage</h1>
+
+<h2>Dashboard: View all registered patients.</h2>
+
+<h2>Patient Profile: Access basic details and medical history.</h2>
+
+<h2>View and upload new reports. Interact with the AI Chatbot</h2>
 ![image](https://github.com/user-attachments/assets/9c5a8c70-1888-4b58-a5ac-2db4b6ede881)
-
-Patient Profile:
-Access basic details and medical history.
-
-View and upload new reports.
-Interact with the AI Chatbot using different contexts (Patient history, Web Search, Medical Text).
-AI Chatbot:
-Ask questions related to patient diagnostics and receive answers based on selected contexts.
+<h2>AI Chatbot: Ask questions related to patient diagnostics and receive answers based on selected contexts.</h2>
