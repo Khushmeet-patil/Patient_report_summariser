@@ -51,12 +51,19 @@ streamlit run app.py
 
 <h1>Usage</h1>
 
-<h2>Dashboard: View all registered patients.</h2>
+<h2>Dashboard: Access basic details and medical history.</h2>
 
-<h2>Patient Profile: Access basic details and medical history.</h2>
+![image](https://github.com/user-attachments/assets/eb2d49f1-40e5-4789-9d2f-6daa973b66f8)
 
-<h2>View and upload new reports. Interact with the AI Chatbot</h2>
+<h2>View and upload new reports.</h2>
 
-![image](https://github.com/user-attachments/assets/ad859043-4740-4d43-8f1b-42e1157c7bc5)
+![image](https://github.com/user-attachments/assets/59c43448-085c-42b1-a286-0f454db67046)
 
-<h2>AI Chatbot: Ask questions related to patient diagnostics and receive answers based on selected contexts.</h2>
+<h2>Medical reports summaries</h2>
+
+![WhatsApp Image 2024-11-09 at 23 21 12_24528975](https://github.com/user-attachments/assets/2089136d-b750-4a57-8703-38fb2489fc27)
+
+<h2>AI Chatbot: Ask questions related to patient diagnostics and receive answers</h2>
+
+![image](https://github.com/user-attachments/assets/2b2d803d-219d-4046-ac1a-956ad5c65e56)
+
