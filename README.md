@@ -56,6 +56,7 @@ streamlit run app.py
 <h2>Patient Profile: Access basic details and medical history.</h2>
 
 <h2>View and upload new reports. Interact with the AI Chatbot</h2>
-![image](https://github.com/user-attachments/assets/41a4113f-f0cb-4e51-b2fc-857377bceecf)
+
+![image](https://github.com/user-attachments/assets/ad859043-4740-4d43-8f1b-42e1157c7bc5)
 
 <h2>AI Chatbot: Ask questions related to patient diagnostics and receive answers based on selected contexts.</h2>
